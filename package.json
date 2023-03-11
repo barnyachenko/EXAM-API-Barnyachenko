@@ -5,6 +5,7 @@
   },
   "dependencies": {
     "@faker-js/faker": "^7.6.0",
-    "cypress": "^12.7.0"
+    "cypress": "^12.7.0",
+    "mathjs": "^11.6.0"
   }
 }
